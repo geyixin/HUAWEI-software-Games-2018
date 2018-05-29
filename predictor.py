@@ -1,4 +1,7 @@
 # -*- coding: UTF-8 -*-
+
+__author__ = 'gyx & wmf'
+
 import time
 import datetime
 
