@@ -1,4 +1,4 @@
-# 2018华为软件大赛
+# [2018华为软件大赛](https://github.com/geyixin/HUAWEI-software-Games-2018)
  数据预测
  初赛最好成绩37名(江山赛区)
 # 主要流程
