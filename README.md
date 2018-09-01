@@ -1,5 +1,6 @@
 # [2018华为软件大赛](https://github.com/geyixin/HUAWEI-software-Games-2018)
- 数据预测
+ 根据历史耘服务器的租用情况，预测接下来一段时间的可能租用情况，包括租用的类型、数量等
+ 
  初赛最好成绩37名(江山赛区)
 # 主要流程
 1. 读输入数据：read_input_data()
