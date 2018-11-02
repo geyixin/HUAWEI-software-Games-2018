@@ -1,6 +1,6 @@
 # [2018华为软件大赛](https://github.com/geyixin/HUAWEI-software-Games-2018)
 
-[![geyixin](https://img.shields.io/badge/Written%20by-geyixin-ff69b4.svg)](https://geyixin.github.io/about/)
+[![geyixin](https://img.shields.io/badge/Written%20by-geyixin-ff69b4.svg)](https://github.com/geyixin/HUAWEI-software-Games-2018)
 [![Language](https://img.shields.io/badge/Language-Python-yellow.svg)](https://www.python.org/)
 
  1. 根据云服务器的历史租用情况，预测接下来一段时间的可能租用情况，包括租用的类型、数量等
